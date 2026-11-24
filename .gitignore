@@ -1,0 +1,3 @@
+# Generated diagnostic reports may contain personal or device information.
+reports/*.txt
+!reports/.gitkeep
